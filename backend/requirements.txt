@@ -1,0 +1,8 @@
+
+fastapi
+uvicorn[standard]
+torch
+transformers
+spacy
+requests
+python-dotenv
