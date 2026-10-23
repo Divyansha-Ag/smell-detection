@@ -16,3 +16,4 @@ node_modules/
 dist/
 **/dist/
 .DS_Store
+backend/smell_model/model.safetensors
